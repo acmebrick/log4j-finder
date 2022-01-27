@@ -1,4 +1,7 @@
 # log4j-finder
+## Acme Branch Notes
+This branch is temporary and simply modifies the displayed version that it contains mods not yet merged upstream.
+
 
 A Python3 script to scan the filesystem to find Log4j2 that is vulnerable to _Log4Shell_ (`CVE-2021-44228` & `CVE-2021-45046` & `CVE-2021-45105`). 
 It scans recursively both on disk and inside (nested) Java Archive files (JARs).

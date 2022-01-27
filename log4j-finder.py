@@ -35,7 +35,7 @@ import fnmatch
 
 from pathlib import Path
 
-__version__ = "1.2.0"
+__version__ = "1.2.0 (Unmerged Acme Mods 0.0.1)"
 FIGLET = f"""\
  __               _____  __         ___ __           __
 |  |.-----.-----.|  |  ||__|______.'  _|__|.-----.--|  |.-----.----.
